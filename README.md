@@ -10,7 +10,3 @@ Technology-agnostic sandbox environment for developing implementations of progra
 ## Technology Outline
 
 - [C++ Outline](cpp-outline.md)
-
-## Source Directory Overview
-
-- [src-overview.md](src/src-overview.md)
